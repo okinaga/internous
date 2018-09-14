@@ -1,0 +1,13 @@
+
+	/**
+	* <p>MySQL に接続する為のユーティリティクラスです。<br>
+	* ルートアカウントにて DB に接続されます。</p>
+	*/
+public class DBConnector {
+
+	/**
+	* JDBC ドライバー名
+	*/
+	private static String driverName="com.mysql.jdbc.Driver";
+
+}
