@@ -1,0 +1,9 @@
+package com.internousdev.webproj2.action;
+
+public class HelloStrutsAction extends ActonSupport {
+
+	public String execute(){
+		String ret=ERROR;
+
+	}
+}
