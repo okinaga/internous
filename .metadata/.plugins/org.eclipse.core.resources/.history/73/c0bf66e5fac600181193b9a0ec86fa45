@@ -1,0 +1,12 @@
+package com.internousdev.webproj3.util;
+
+public class DBConnector {
+
+	private static String driverName = "com.mysql.jsbc.Driver";
+
+	private static String url = "jdbc:mysql://localhost/testdb_3";
+
+	private static String user = "root";
+
+	private static String password = "mysql";
+}
