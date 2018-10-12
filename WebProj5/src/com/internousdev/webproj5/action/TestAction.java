@@ -34,12 +34,17 @@ public class TestAction extends ActionSupport implements SessionAware{
 		session.put("loginDTOList", loginDTOList);
 		return ret;
 	}
+
+
 	public String getUsername() {
 		return username;
 	}
-	public void getUsername(String username) {
+
+
+	public void setUsername(String username) {
 		this.username = username;
 	}
+
 
 	public String getPassword() {
 		return password;
