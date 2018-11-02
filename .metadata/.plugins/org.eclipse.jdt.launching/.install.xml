@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
 <entry loc="C:\eclipse\pleiades\eclipse\jre" stamp="1457530456000"/>
@@ -8,3 +9,15 @@
 <entry loc="C:\eclipse\pleiades\java\8" stamp="1457530378000"/>
 <entry loc="C:\pleiades\eclipse\jre\jre" stamp="1521790162293"/>
 </dirs>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+<entry loc="C:\eclipse\pleiades\eclipse\jre" stamp="1457530456000"/>
+<entry loc="C:\pleiades\java\8" stamp="1521790273107"/>
+<entry loc="C:\pleiades\eclipse\jre" stamp="1521790165714"/>
+<entry loc="C:\eclipse\pleiades\java\6" stamp="1457530272000"/>
+<entry loc="C:\eclipse\pleiades\java\7" stamp="1457530326000"/>
+<entry loc="C:\eclipse\pleiades\java\8" stamp="1457530378000"/>
+<entry loc="C:\pleiades\eclipse\jre\jre" stamp="1521790162293"/>
+</dirs>
+>>>>>>> 0d4873043eb1810a9073ada90c8776f911cbabb8
